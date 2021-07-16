@@ -45,7 +45,7 @@ header nav a:hover {
     url("/img/capa-harry.jpg");
 
   height: 30rem;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
 
   display: flex;
